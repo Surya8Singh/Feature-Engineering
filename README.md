@@ -10,12 +10,12 @@ In such cases, One hot encoding can be limited for, say, top 10 most frequent va
 
 ## Advantages:
 
-Straightforward to implement
-Prevents from spending hours on variable exploration
-Does not massively expand the feature space
+Straightforward to implement.
+Prevents from spending hours on variable exploration.
+Does not massively expand the feature space.
 
 ## Disadvantages:
 
-Does not add any information to the data that makes the variable more predictive
-Does not retain the information of the ignored variables
+Does not add any information to the data that makes the variable more predictive.
+Does not retain the information of the ignored variables.
 
