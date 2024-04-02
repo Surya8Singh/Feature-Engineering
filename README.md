@@ -8,15 +8,14 @@ While this is easily doable for cases with limited number of labels per categori
 
 In such cases, One hot encoding can be limited for, say, top 10 most frequent variables. Here, top 10 can be top 15 or 20 depending upon the data available and the domain knowledge.
 
-Advantages:
+## Advantages:
+
 Straightforward to implement
-
 Prevents from spending hours on variable exploration
-
 Does not massively expand the feature space
 
-Disadvantages:
-Does not add any information to the data that makes the variable more predictive
+## Disadvantages:
 
+Does not add any information to the data that makes the variable more predictive
 Does not retain the information of the ignored variables
 
